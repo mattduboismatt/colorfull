@@ -1,5 +1,6 @@
 let React    = require('react');
 let ReactDOM = require('react-dom');
+let Relay    = require('react-relay');
 
 class Item extends React.Component {
   render() {
